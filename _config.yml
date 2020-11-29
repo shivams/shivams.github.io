@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shivam Sharma / Engineer and an aspiring Philosopher"
+title                    : "Shivam Sharma"
 title_separator          : "-"
 name                     : &name "Shivam Sharma"
 description              : &description "Interested in Machines and Communication"
