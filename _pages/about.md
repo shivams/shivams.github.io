@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Shivam.
+Hi. This is Shivam.
 
-I am interested in Machines: things which can do stuff like manipulation in space and computation. I am also interested in how they communicate.
+I am interested in Machines: things which can manipulate in space and things can  computate. I am also interested in how they communicate.
 
-I believe that theory and practice should go together.
+And I think natural languages are a test-bed for a whole lot of discovery that lies ahead. And not just the human mind, but even the mysteries of the universe.
 
-And I think languages are a test-bed for a whole lot of discovery that lies ahead. Yes, languages can provide us insight into human nature. But I believe that language can provide us insight into the universe.
-
-
+Finally, I believe that theory and practice should go together.
