@@ -3,7 +3,7 @@ title: "Instrumentation for in-situ monitoring of water resources"
 collection: publications
 category: book-chapter
 permalink: /publication/2020-08-20-gbpant-book-chapter
-excerpt: 'This book is a collection of articles on environmental instrumentation written by the respective experts in India.'
+excerpt: 'This book chapter was written as part of a book being published by the Indian government on environmental instrumentation.'
 date: 2020-08-20
 venue: 'Green Skills Development Programme'
 citation: 'Sharma, S. et al. (2020) "Instrumentation for in-situ monitoring of water resources", <i>Green Skills Development Programme</i>, Ministry of Environment, Forest and Climate Change, Government of India. ISBN: 978-93-5396-711-6'
