@@ -14,9 +14,7 @@ Previously, I worked as an Embedded Engineer in *Applied Electronics*, one of th
 
 ### Interests
 
-I am interested in Machines: both mechanical and computational. I am also interested in how they communicate.
+I am interested in Machines: both mechanical and computational. I am interested in how they communicate with each other and to humans.
 
-And I think natural languages are a test-bed for a whole lot of discovery that lies ahead. And not just the human mind, but also the mysteries of the universe.
-
-Finally, I believe that theory and practice should go together.
+Previously, I have been interested in the dynamics of bicycles. [See this project](/projects/2012-tire-inflation-bicycle/) which motivated me to pursue a research degree in rigid body dynamics.
 
