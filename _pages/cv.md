@@ -27,9 +27,6 @@ Skills
 * **Tools**: Vim, Emacs, Git, LaTeX
 * **Softwares**: Solidworks, Ansys Fluent, Labview, AMESim
 * **Hardware**: Raspberry Pi, Arduino, ESP32, STM32, NI Hardware, LoRa Wireless
-* **Courses**: Linear Algebra, Calculus, Dynamics and Control, Numerical Methods, Real Analysis\*, Discrete Mathematics\*, Data Structures and Algorithms\*
-
-\* *these courses were audited or self-studied*
 
 Publications
 ======
