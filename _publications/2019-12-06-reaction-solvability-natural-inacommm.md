@@ -1,5 +1,5 @@
 ---
-title: "Reaction Solvability Analysis using Natural Coordinates"
+title: "Reaction Solvability Analysis of Over-constrained mechanisms using Natural Coordinates"
 collection: publications
 category: conference
 permalink: /publication/2019-12-06-reaction-solvability-natural-inacommm
@@ -9,7 +9,30 @@ venue: '4th International and 19th National Conference on Machines and Mechanism
 paperurl: 'http://shivams.github.io/files/inacomm19Paper.pdf'
 citation: 'Sharma, Shivam & Ghosal, Ashitava (2019) &quot;Reaction Solvability Analysis using Natural Coordinates&quot;, <i>4th International and 19th National Conference on Machines and Mechanisms (iNaCoMM 2019)</i>, IIT Mandi, 5-7 December. Association for Machines and Mechanisms.'
 ---
-This paper was presented in an international conference in Machines and Mechanisms. It comes out of my Master's dissertation work submitted in IISc Bangalore in 2017 (and defended in 2019).
+This paper was presented in an international conference in Machines and Mechanisms in December 2019, and will soon be published in the proceedings. It comes out of my Master's dissertation work submitted in IISc Bangalore in 2017 (and defended in 2019).
+
+### Brief Overview of Thesis (for non-Mechanical Engineering readers)
+
+This work provided a new modeling approach to an existing problem in multi-rigid-body dynamics, enabling the problem to be solved symbolically, while earlier work had solved the problem numerically. Solving this problem boiled down to matrix computations (finding rank of the Jacobian matrices), and our approach yielded matrices with linear terms which otherwise would have transcendental terms. This made the symbolic computation much faster.
+
+Another work that was attempted to improve the performance was to use Quaternions and Geometric Algebra for modeling. However, no significant computation gains were visible and it was taking time to learn and adapt the algorithms to the new geometrical techniques, so we suspended this work. Some of the work on Quaternions was put in the Appendix. Finally, we attempted to delve into the symbolic algorithms of Mathematica (our preferred symbolic solver), but this was beyond the scope.
+
+### Detailed Overview of Thesis 
+
+This work deals with a special class of mechanisms, called **over-constrained mechanisms**, where the reactions at the joints can not be calculated uniquely under rigid body assumptions. For such mechanisms, simulation softwares discard the rigid body assumptions, consider the links as flexible by bringing in the material constitutive equations, and solve the problem using Finite Element Analysis (FEA). In recent work, researchers had suggested algorithms to find a subset of reactions in such mechanisms which can be solved uniquely under rigid body assumptions. If our reactions of interest lie in this subset, then FEA can be avoided. This analysis is called Reaction Solvability Analysis (RSA) and the algorithms for RSA boil down to the investigation of the Jacobian matrix of the over-constrained mechanism (hence matrix computations).
+
+Our goal was to implement these numerical algorithms symbolically. This would not only generalize the solutions, but also obviate the need of finding a valid numerical configuration to be fed into the RSA algorithm (by solving computationally expensive loop-closure equations). Applying the existing RSA algorithms naively in a symbolical fashion was computationally expensive as the matrices had transcendental terms and consequently Mathematica's solvers struggled. We proposed a new modeling approach using Natural Coordinates (or Fully Cartesian Coordinates). This made the matrices larger but with only linear terms. Symbolic solvers now performed much better. This work finally formed the central part of this thesis and was presented in an international conference. This RSA methodology was tested on various mechanisms and a comparison was made of their efficiency under different coordinate formulations. The constrained dynamics equations were also derived and from the simulations, the joint reactions for the uniquely solvable joints were obtained as a function of time.
+
+There were other approaches that were attempted but later discarded. First, we explored using different geometrical constructs (e.g. Geometric Algebra, Quaternions, Screw Theory, 6D Vectors etc.) for modeling the mechanisms. No significant gains were visible and there was a learning curve associated. Hence, the work was suspended. Second, we attempted going into the symbolic algorithms of Mathematica itself but this proved to be even more challenging (and also inaccessible) for our lack of expertise. This can be a future problem statement for a computer scientist. 
+
+### Auxiliary Contributions
+
+The algorithm was implemented using Mathematica, and several auxiliary Python codes were written to assist in our work:
+
+* Python program to automatically generate constraint equations to be fed into Mathematica
+* Python program to generate the CAD model of a multi-body system
+* Python program for forward-kinematics using Quaternions
+* Python library for symbolic computation using Quaternions
 
 ### Downloads
 
@@ -19,14 +42,6 @@ This paper was presented in an international conference in Machines and Mechanis
 
 [Source code of various programs written](https://github.com/shivams/iisc-masters-thesis-codes/)
 
-### Overview of Thesis
+### Trivia (Motivation)
 
-This work was a theoretical work in multi-rigid-body dynamics and provided a new modeling approach to an existing
-problem in this field, enabling the problem to be solved symbolically, while earlier work had solved the problem numerically. Solving this problem boiled down to doing matrix computations (finding rank of the Jacobian matrices), and our approach yielded matrices with linear terms which otherwise would have transcendental terms. This made the symbolic computation much faster. This work was presented in an international conference in our field in December 2019 and will soon be published in the proceedings. The algorithm was implemented using Mathematica, and several auxiliary Python codes were written to assist in our work:
-
-* Python program to automatically generate constraint equations to be fed into Mathematica
-* Python program to generate the CAD model of a multi-body system
-* Python program for forward-kinematics using Quaternions
-* Python library for symbolic computation using Quaternions
-
-Another work that was attempted to improve the performance was to use Quaternions and Geometric Algebra for modeling. We had explored many other geometrical techniques like Screw Theory and 6D vectors. However, no significant computation gains were visible and it was taking time to adapt the algorithms to the new geometry, so we suspended this work. Some of the work on Quaternions was put in the Appendix.
+This problem was motivated in 2012/13 when [my undergraduate project on bicycles](/projects/2012-tire-inflation-bicycle/) had me confounded, for I realized that we didn't understand (all these 150 years!) how bicycles are balanced. It was surprising that the "*a-priori*" framework of rigid bodies failed at deducing this understanding. I wanted to test the limits of this *a-priori* framework to test how much we could do using this framework, without going into the "*a-posteriori*" material constitutive equations. In a way, I "*over-constrained*" myself to rigid-body systems!
