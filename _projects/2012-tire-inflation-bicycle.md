@@ -10,7 +10,7 @@ In 2012, troubled with our bicycles gradually leaking air from their tires, we b
 
 <br>
 
-While doing the project, I got interested in the dynamics of bicycles. I discovered that why the bicycles remain balanced was only recently understood. [Prof. Arend Schwab gave a talk on this topic in the same year (2012)](https://www.youtube.com/watch?v=2Y4mbT3ozcA). This was shocking to me. Bicycle balancing is studied under the framework of ideal rigid bodies. And the theory of rigid bodies is a complete, "*a-priori*" framework. That is, once you have the laws of Classical Mechanics, you don't need to get out to find answers; all answers are available within your pen-and-paper analysis (given that you can solve the equations somehow). 
+While doing the project, I got interested in the dynamics of bicycles. I discovered that why the bicycles remain balanced was only recently understood. [Prof. Arend Schwab gave a talk on this topic in the same year (2012)](https://www.youtube.com/watch?v=2Y4mbT3ozcA). This was shocking to me. Bicycle balancing is studied under the framework of ideal rigid bodies. And the theory of rigid bodies is a complete, "*a-priori*" framework. That is, once you have the laws of Classical Mechanics, you don't need to go "out" anywhere to find answers; all answers are available within your pen-and-paper analysis (given that you can solve the equations somehow). 
 
 Motivated with this, I went on to pursue a research degree in rigid body dynamics in 2013. And in my dissertation, I tested the limits of this "a-priori" framework. *How much could we do simply using rigid-body assumptions, and without considering the bodies as flexible?* See [my thesis work here](/publication/2019-12-06-reaction-solvability-natural-inacommm). 
 
