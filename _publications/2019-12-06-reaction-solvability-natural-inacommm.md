@@ -9,7 +9,7 @@ venue: '4th International and 19th National Conference on Machines and Mechanism
 paperurl: 'http://shivams.github.io/files/inacomm19Paper.pdf'
 citation: 'Sharma, Shivam & Ghosal, Ashitava (2019) &quot;Reaction Solvability Analysis using Natural Coordinates&quot;, <i>4th International and 19th National Conference on Machines and Mechanisms (iNaCoMM 2019)</i>, IIT Mandi, 5-7 December. Association for Machines and Mechanisms.'
 ---
-This paper was presented in an international conference in Machines and Mechanisms in December 2019, and will soon be published in the proceedings. It comes out of my Master's dissertation work submitted in IISc Bangalore in 2017 (and defended in 2019).
+This paper was presented in an international conference in Machines and Mechanisms in December 2019, and will soon be published in the proceedings. It comes out of my Master's dissertation work done in IISc Bangalore during 2013-15 (and defended in 2019).
 
 ### Brief Overview of Thesis (for non-Mechanical Engineering readers)
 
