@@ -1,7 +1,7 @@
 ---
 title: "Reaction Solvability Analysis of Over-constrained mechanisms using Natural Coordinates"
 collection: publications
-category: conference
+category: conference-paper
 permalink: /publication/2019-12-06-reaction-solvability-natural-inacommm
 excerpt: 'This conference paper comes from my MSc work on over-constrained mechanisms'
 date: 2019-12-06

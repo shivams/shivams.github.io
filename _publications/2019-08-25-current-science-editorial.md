@@ -1,6 +1,7 @@
 ---
 title: "Low-cost sensors for monitoring water resources"
 collection: publications
+category: editorial
 permalink: /publication/2019-08-25-current-science-editorial
 excerpt: 'A guest editorial in Current Science on low-cost environmental monitoring'
 date: 2019-08-25
