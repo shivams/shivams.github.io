@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **2008 - 2012**: B.Tech. in Mechanical Engineering, Indian Institute of Technology, Kanpur
-* **2013 - 2015**: M.Sc. (Engg.) in Robotics, Mechanical Engineering, Indian Institute of Science, Bangalore (*degree awarded in 2019*)
 * **2021 - current**: Doctoral Candidate, Department of Computer Science, Texas A&M University
+* **2013 - 2015**: M.Sc. (Engg.) in Robotics, Mechanical Engineering, Indian Institute of Science, Bangalore (*degree awarded in 2019*)
+* **2008 - 2012**: B.Tech. in Mechanical Engineering, Indian Institute of Technology, Kanpur
 
 Work experience
 ======
