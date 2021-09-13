@@ -7,7 +7,6 @@ excerpt: 'This conference paper comes from my MSc work on over-constrained mecha
 date: 2019-12-06
 venue: '4th International and 19th National Conference on Machines and Mechanisms (iNaCoMM 2019)'
 paperurl: 'http://shivams.github.io/files/inacomm19Paper.pdf'
-<!-- citation: 'Sharma, Shivam & Ghosal, Ashitava (2019) &quot;Reaction Solvability Analysis using Natural Coordinates&quot;, <i>4th International and 19th National Conference on Machines and Mechanisms (iNaCoMM 2019)</i>, IIT Mandi, 5-7 December. Association for Machines and Mechanisms.' -->
 citation: 'Sharma S., Ghosal A. (2022) Reaction Solvability Analysis Using Natural Coordinates. In: Kumar R., Chauhan V.S., Talha M., Pathak H. (eds) Machines, Mechanism and Robotics. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-16-0550-5_94'
 ---
 This paper was presented in an international conference in Machines and Mechanisms in December 2019, and has been published in the proceedings by Springer (2022). It comes out of my Master's dissertation work done in IISc Bangalore during 2013-15 (and defended in 2019).
