@@ -42,7 +42,7 @@ The algorithm was implemented using Mathematica, and several auxiliary Python co
 
 [Source code of various programs written](https://github.com/shivams/iisc-masters-thesis-codes/)
 
-[Springer Proceedings Link](https://link.springer.com/chapter/10.1007/978-981-16-0550-5_94citeas)
+[Springer Proceedings Link](https://link.springer.com/chapter/10.1007/978-981-16-0550-5_94)
 
 ### Trivia (Motivation)
 
