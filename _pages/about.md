@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Computer Science, Texas A&M University, working in the "*Programming Languages and Verification*" area, with the awesome [O2Lab](https://o2lab.github.io/) people.
+I am a PhD candidate in the Department of Computer Science, Texas A&M University.
 
 Previously, I was the CTO of an Indian environmental monitoring startup, [Kritsnam Technologies](http://www.kritsnam.in). This startup provides end-to-end solutions for environmental (hydrological) monitoring needs: hardware, firmware, software and even deployment! Yes, I personally went hiking for installing instruments in the Himalayas.
 
