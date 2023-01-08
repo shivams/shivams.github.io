@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Computer Science, Texas A&M University.
+I am a PhD student in the Department of Computer Science, Texas A&M University (TAMU). My research area is in Computational Geometry.
 
-Previously, I was the CTO of an Indian environmental monitoring startup, [Kritsnam Technologies](http://www.kritsnam.in). This startup provides end-to-end solutions for environmental (hydrological) monitoring needs: hardware, firmware, software and even deployment! Yes, I personally went hiking for installing instruments in the Himalayas.
+### Past Life
 
-Before that, I worked as an Embedded Engineer in *Applied Electronics*, one of the oldest inverter manufacturing companies in Northern India (founded by my father). My work in the past 5 years (~2015 to 2020) in both these companies has been related to Internet of Things. It started in 2016 with me attempting to do a 10-km long WiFi transmission to monitor some solar inverters. I joined Kritsnam in 2017, where I worked on LoRa and other longer-range technologies. The IoT devices that I have programmed in these 5 years have been deployed across India and Bangladesh. We have filed a patent for a novel IoT circuit in Kritsnam. We hope this device would one day leave the Indian sub-continent.
+Before joining TAMU, I was working in an Indian environmental monitoring startup, [Kritsnam Technologies](http://www.kritsnam.in). This startup provides end-to-end solutions for environmental (hydrological) monitoring needs: hardware, firmware, software and even deployment! Yes, I personally went hiking for installing instruments in the Himalayas.
+
+Before that, I worked as an Embedded Engineer in *Applied Electronics*, one of the oldest inverter manufacturing companies in Northern India. My work in those 5 years (~2015 to 2020) in both these companies has been related to *Internet of Things (IoT)*. 
+The IoT devices that I have programmed in these 5 years have been deployed across India and Bangladesh. We hope this device would one day leave the Indian sub-continent.
+<!-- It started in 2016 with me attempting to do a 10-km long WiFi transmission to monitor some solar inverters. I joined Kritsnam in 2016, where I worked on LoRa and other longer-range technologies.  -->
 
 ### Interests
 
