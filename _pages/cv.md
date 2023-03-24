@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* **2021 - current**: Doctoral Candidate, Department of Computer Science, Texas A&M University
+* **2021 - current**: PhD Student, Department of Computer Science, Texas A&M University
 * **2013 - 2015**: M.Sc. (Engg.) in Robotics, Mechanical Engineering, Indian Institute of Science, Bangalore (*degree awarded in 2019*)
 * **2008 - 2012**: B.Tech. in Mechanical Engineering, Indian Institute of Technology, Kanpur
 
 Work experience
 ======
-* **2021 - current**: Graduate Research Assistant, Texas A&M University, USA
+* **2022 - current**: Graduate Teaching Assistant, Texas A&M University, USA
+* **2021 - 2022**: Graduate Research Assistant, Texas A&M University, USA
 * **2020 - current**: *Advisor*, Kritsnam Technologies, India
 * **2017 - 2020**: *Chief Technical Officer*, [Kritsnam Technologies](http://kritsnam.in), India
 * **2015 - 2017**: *Embedded Engineer*, [Applied Electonics](http://applied.in), India
