@@ -5,8 +5,8 @@ category: conference-paper
 permalink: /publication/2025-08-02-adg2025-parsimonious-efficacy-analysis
 excerpt: 'This book chapter was written as part of a book being published by the Indian government on environmental instrumentation.'
 date: 2025-08-02
-venue: 'Automated Deduction in Geometry (ADG) 2025'
-citation: 'Sharma, S., & Keyser, J. (2025) "Inference Maximizing Point Configurations for Parsimonious Algorithms", <i>Automated Deduction in Geometry (ADG) 2025</i>.'
+venue: 'Automated Deduction in Geometry (ADG)'
+citation: 'Sharma, S., & Keyser, J. (2025) "Inference Maximizing Point Configurations for Parsimonious Algorithms", <i>Automated Deduction in Geometry (ADG)</i>.'
 ---
 
 This work was presented in [Automated Deduction in Geometry (ADG) 2025](https://www.uc.pt/events/adg/2025/accepted-papers-abstracts/) conference in Stuttgart, Germany. 
